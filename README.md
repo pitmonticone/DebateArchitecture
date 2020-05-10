@@ -1,6 +1,6 @@
 ## How to moderate constructive debates?
 
-Read my admittedly naive [proposal](https://pitmonticone.github.io/DebateArchitecture/design.html).
+Read the [proposal](https://pitmonticone.github.io/DebateArchitecture/design.html).
 
 <br><br>
 
