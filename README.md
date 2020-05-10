@@ -1,2 +1,2 @@
-# DebateArchitecture
-A timid and probably naive proposal to design constructive debates.
+# How to moderate constructive debates?
+### A timid and probably naive proposal
