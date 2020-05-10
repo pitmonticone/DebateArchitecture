@@ -43,8 +43,8 @@ knitr::opts_chunk$set(
 6. Remind the panelists of the possibility of using the **Bullshit Bonus (BB)** based on the **Extended Bullshit Asymmetry Principle (EBAP)** ^["The amount of energy necessary to dismantle a bullshit is at least an order of magnitude bigger than to produce it." (See the original [**BAP**](https://twitter.com/ziobrando/status/289635060758507521?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E289635060758507521&ref_url=http%3A%2F%2Fordrespontane.blogspot.com%2F2014%2F07%2Fbrandolinis-law.html))]: Let's consider two epistemic agents $A$ and $B$ in free, dispassionate communication under the TDIIH regime
    * Agent $A$ expresses a collection of propositions $\{ P_i \}$
    * Agent $B$ believes that $\{ P_i \}$ could be classified as *bullshit* $\Rightarrow B$ has the right to ask for the extension of the available time to be at least one order of magnitude bigger than the time it took to generate the declared *bullshit*, then 
-     * if $A$ is convinced of the refutation of $\{ P_i \}$ by $A \Rightarrow B$ accepts the criticism and proceeds considering $\{ P_i \}$ invalid ;
-     * if $A$ is NOT convinced of the refutation of $\{ P_i \}$ by $A \Rightarrow A$ does NOT accept the criticism and gains $\Delta t$ equal to that spent by $B$ to try to dismantle $\{ P_i \}$ .
+     * if $A$ is convinced of the refutation of $\{ P_i \}$ by $B \Rightarrow A$ accepts the criticism and proceeds considering $\{ P_i \}$ invalid ;
+     * if $A$ is NOT convinced of the refutation of $\{ P_i \}$ by $B \Rightarrow A$ does NOT accept the criticism and gains $\Delta t$ equal to that spent by $B$ to try to dismantle $\{ P_i \}$ .
 
 ### **Debate** 
 
