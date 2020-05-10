@@ -62,4 +62,4 @@ knitr::opts_chunk$set(
     * INDIFFERENT $=0$
     * CON $=-1$
 
-2. **The winners are** the *state* with the highest number of post-debate votes **and** the *agents* with the greatest $\Delta = V_{post}-V_{pre}$. ^[In order to stress once again that the *proposition* winning is not the same as the *agent* winning.]
+2. **The "winners" are** the *state* with the highest number of post-debate votes **and** the *agents* with the greatest $\Delta = V_{post}-V_{pre}$. ^[In order to stress once again that the *proposition* winning is not the same as the *agent* winning.]
