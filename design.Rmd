@@ -1,6 +1,6 @@
 ---
 title: "How to moderate constructive debates?"
-subtitle: "A timid and probably naive proposal"
+subtitle: "An admittedly naive proposal"
 author: "**Pietro Monticone**"
 # date: "`r Sys.Date()`"
 output:
