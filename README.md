@@ -1,6 +1,6 @@
 ## How to moderate constructive debates?
 
-Read the [proposal]().
+Read my admittedly naive [proposal]().
 
 <br><br>
 
