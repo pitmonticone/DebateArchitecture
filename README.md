@@ -2,7 +2,7 @@
 
 Read the [proposal]().
 
-<br><br><br><br><br>
+<br><br>
 
 **Copyright 2020 Pietro Monticone**
 
